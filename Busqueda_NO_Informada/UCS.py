@@ -22,6 +22,7 @@ def ucs(graph, start, goal):
         
         if node in visited:
             continue 
+        print(f"Visiting node: {node} with cost: {cost}")
         
         visited.add(node)
         
