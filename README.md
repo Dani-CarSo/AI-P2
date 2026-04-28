@@ -1,2 +1,2 @@
 # AI-P2
-Materia: Inteligencia Artificial
+Practicas 2° parcial de Inteligencia Artificial
