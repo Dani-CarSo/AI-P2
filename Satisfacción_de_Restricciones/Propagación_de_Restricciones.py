@@ -1,4 +1,4 @@
-#19
+#20
 #Propagación de Restricciones
 
 # deque es una cola de doble extremo (más eficiente que list para popleft)
