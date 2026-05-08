@@ -1,9 +1,6 @@
 #43
 #Tratamiento Probabilístico del Lenguaje
 
-
-#  TRATAMIENTO PROBABILÍSTICO DEL LENGUAJE - Python (sin dependencias externas)
-
 # Importamos Counter para contar elementos fácilmente (como un diccionario con suma automática)
 # y defaultdict para crear diccionarios con valor por defecto sin lanzar KeyError
 from collections import Counter, defaultdict
