@@ -1,4 +1,4 @@
-#92
+#86
 #Graficos por Computador
 
 import pygame  # Importamos Pygame para gestionar la ventana y eventos

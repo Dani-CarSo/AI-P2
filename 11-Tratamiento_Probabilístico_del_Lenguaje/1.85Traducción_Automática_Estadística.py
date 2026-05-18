@@ -1,4 +1,4 @@
-#84
+#85
 #Traducción Automática Estadística
 
 import random # Importamos para posibles selecciones entre opciones con igual peso

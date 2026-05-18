@@ -1,4 +1,4 @@
-#88
+#89
 #Reconocimientos de Objetos
 
 import cv2  # Importamos OpenCV para visualizar los resultados

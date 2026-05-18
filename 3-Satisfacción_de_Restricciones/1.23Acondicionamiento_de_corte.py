@@ -1,4 +1,4 @@
-#22
+#23
 #Acondicionamiento del corte
 
 def cutting_stock(stock_length, piezas): #

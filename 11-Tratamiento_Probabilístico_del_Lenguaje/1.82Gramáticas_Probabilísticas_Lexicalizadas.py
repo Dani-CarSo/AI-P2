@@ -1,4 +1,4 @@
-#81
+#82
 #Gramática Probabilística Lexicalizada
 
 import random # Importamos para poder elegir opciones basadas en probabilidad

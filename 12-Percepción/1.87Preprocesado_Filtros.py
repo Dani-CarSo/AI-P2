@@ -1,4 +1,4 @@
-#91
+#87
 #Preprocesado: Filtros linea por linea
 
 import cv2  # Importamos la librería de visión

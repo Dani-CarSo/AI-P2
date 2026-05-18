@@ -1,4 +1,4 @@
-#79
+#80
 #Modelo Probabilístico del Lenguaje: Corpus
 
 import random # Para elegir la palabra siguiente basándonos en azar pesado

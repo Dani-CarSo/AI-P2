@@ -1,4 +1,4 @@
-#90
+#88
 #Detección de Aristas y Segmentación
 
 import cv2  # Librería principal de visión por computadora

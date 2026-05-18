@@ -1,4 +1,4 @@
-#21
+#22
 #Búsqueda Local: Mínimos-Conflictos
 
 import random

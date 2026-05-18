@@ -1,4 +1,4 @@
-#87
+#90
 #Reconocimiento de Escritura
 
 import cv2  # Importamos OpenCV para el manejo y procesamiento de imágenes
